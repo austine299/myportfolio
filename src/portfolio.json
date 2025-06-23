@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Instagram Vendors Scam Detection admin dashboard",
+    "image": "insta-vendor.png",
+    "activity": "Helps prevent online fraud by identifying suspicious Instagram vendors.",
+    "skills": "Html, TailwindCss, React.js Node.js, Express, MongoDB",
+    "link": "https://instagram-vendors-vendor.onrender.com/",
+    "features": "Vendor verification, RESTful API for reporting",
+    "code": "https://github.com/austine299/Instagram-vendors-scam"
+  },
+  {
+    "id": 2,
+    "name": "Instagram Vendors Scam Detection public-facing UI",
+    "image": "insta-vendor-customer.png",
+    "activity": "Helps prevent online fraud by identifying suspicious Instagram vendors.",
+    "skills": "Html, TailwindCss, React.js Node.js, Express, MongoDB",
+    "link" : "https://instagram-vendors-frontend.onrender.com/",
+    "features": "scam records, Potential use for e-commerce protection platforms",
+    "code": "https://github.com/austine299/Instagram-vendors-scam"
+  },
+  {
+    "id": 3,
+    "name": "Kaly grains Website",
+    "image": "grain-store.png",
+    "activity": "A clean, responsive website for a product-based business.",
+    "skills": "Html React, TailwindCSS",
+    "link": "https://www.kalysgrain.com/",
+    "features": "Landing page and product sections, Contact forms and responsive design",
+    "code": "https://github.com/austine299/kaly-website"
+  },
+  {
+    "id": 4,
+    "name": "Mortgage Calculator",
+    "image": "mortgage.png",
+    "activity": "Interactive calculator for computing loan payments and interest.",
+    "skills": "Html React, TailwindCSS",
+    "link": "https://austine299.github.io/Mortgage-calculator/",
+    "features": "Monthly repayment calculation, Dynamic UI updates based on input",
+    "code": "https://github.com/austine299/Mortgage-calculator"
+  },
+  {
+    "id": 5,
+    "name": "Gym Exercises Tracker",
+    "image": "gym-site.png",
+    "activity": "Fitness-focused app for discovering exercises and routines.",
+    "skills": "Html, Media Query, React, ExerciseDB API",
+    "link": "https://austine299.github.io/gym-exercises/",
+    "features": "Search exercises by muscle group or equipment, Video tutorials embedded", 
+    "code": "https://github.com/austine299/gym-exercises"
+  },
+  {
+    "id": 6,
+    "name": "YouTube Clone",
+    "image": "youtube.png",
+    "activity": "A YouTube-like frontend UI with video browsing capability.",
+    "skills": "Html React, Media Query, YouTube Data API ",
+    "link": "https://austine299.github.io/my_youtube/",
+    "features": "Video search, playback, and recommendations, YouTube-style layout",
+    "code": "https://github.com/austine299/my_youtube"
+  },
+  {
+    "id": 7,
+    "name": "Restaurant App",
+    "image": "resturant.png",
+    "activity": "Modern food website or ordering platform",
+    "skills": " React / HTML/CSS Media Query",
+    "link": "https://austine299.github.io/resturant/",
+    "Features": "Menu display, possible cart and reservation system, Mobile responsiveness",
+    "code": "https://github.com/austine299/resturant"
+  }
+]
