@@ -1,5 +1,5 @@
 import Portfolio from "./portfolio.json";
-import { FaLongArrowAltRight, FaGithub, FaFirefoxBrowser, FaGlobe} from "react-icons/fa";
+import { FaLongArrowAltRight, FaGithub, FaGlobe} from "react-icons/fa";
 
 function App() {
   return (
@@ -31,16 +31,16 @@ function App() {
                 <p>{item.Features}</p>
                 <div className="flex gap-3">
                   <a href={item.link} className="flex flex-col gap-2 hover:text-red-500 w-40 p-3">
-                    <span className="flex gap-4 items-center"><span>Visit Site</span> <FaGlobe className="text-white"/></span>{" "}
+                    <span className="flex gap-4 items-center"><span>Visit Site</span> <FaGlobe className="text-white"/><FaLongArrowAltRight/></span> {" "}
                     <hr className="border-t-4 border-red-500 w-10" />{" "}
                   </a>
-                  <a href={item.code} className="flex flex-col gap-2 hover:text-red-500 w-40 p-3">
-                    <span className="flex gap-4 items-center"><span>See code</span> <FaGithub className="text-white"/></span>{" "}
+                  <a href={item.code} className="flex flex-col gap-2 hover:text-red-500 w-fit p-3">
+                    <span className="flex gap-4 items-center"><span>See code</span> <FaGithub className="text-white"/> <FaLongArrowAltRight/></span> {" "}
                     <hr className="border-t-4 border-red-500 w-10" />{" "}
                   </a>
                 </div>
               </div>
-              <img src={`images/${item.image}`} className="sm:w-2/5 w-full"/>
+              <img src={`${process.env.PUBLIC_URL}/images/${item.image}`} className="sm:w-2/5 w-full" alt={item.name}/>
             </div>
           ))}
         </div>

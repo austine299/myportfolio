@@ -68,5 +68,45 @@
     "link": "https://austine299.github.io/resturant/",
     "Features": "Menu display, possible cart and reservation system, Mobile responsiveness",
     "code": "https://github.com/austine299/resturant"
+  },
+  {
+    "id": 8,
+    "name": "Room Furniture",
+    "image": "room.png",
+    "activity": "Modern furniture website ",
+    "skills": " React / HTML/CSS Media Query",
+    "link": "https://austine299.github.io/Room_Furniture/",
+    "Features": "Room display, possible cart and reservation system, Mobile responsiveness",
+    "code": "https://github.com/austine299/Room_Furniture"
+  },
+  {
+    "id": 9,
+    "name": "Sign-In/Sign-Up",
+    "image": "signin-signup.png",
+    "activity": "log in and Registration Form ",
+    "skills": " React / HTML/CSS Media Query",
+    "link": "https://austine299.github.io/LoginWithAdminBoard/",
+    "Features": "Menu display, possible cart and reservation system, Mobile responsiveness",
+    "code": "https://github.com/austine299/LoginWithAdminBoard"
+  },
+  {
+    "id": 10,
+    "name": "Todo List",
+    "image": "todo.png",
+    "activity": "This is my todo list with light mode and dark mode",
+    "skills": " React / HTML/CSS Media Query",
+    "link": "https://github.com/austine299/TODO-APP",
+    "Features": "Todo list app, Mobile responsiveness",
+    "code": "https://github.com/austine299/TODO-APP"
+  },
+  {
+    "id": 11,
+    "name": "Url Shortening ",
+    "image": "url-shorten-link.png",
+    "activity": "This helps you to shorten any long url",
+    "skills": " React / HTML/CSS Media Query",
+    "link": "https://github.com/austine299/url-shortening",
+    "Features": "Adding items to the list, Mobile responsiveness",
+    "code": "https://github.com/austine299/url-shortening"
   }
 ]
